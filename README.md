@@ -1,5 +1,12 @@
-11/17(Thursday)2022
+Reverse-yield factor database for processed foods in the Standard Tables of Food Composition in
 
-Cooking-processing-coefficient 食品一次分解リスト220712.xlsx is deleted by T.K.
+Japan are updated when any revisions are necessary.
 
-Cooking-processing-coefficient 食品一次分解リスト220824.xlsx is newly added by T.K.
+
+Last updated history:
+
+November 17, 2022
+
+Reverse-yield Factor for Processed Foods Based on the Standard Tables of Food Composition in
+
+Japan_Version 1.0
