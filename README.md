@@ -1,4 +1,4 @@
-Reverse-yield factor database for processed foods in the Standard Tables of Food Composition in Japan are updated when any revisions are necessary.
+Reverse-yield factor database for processed foods in the Standard Tables of Food Composition in Japan are updated when any revisions are necessary. Any inquiries on the database should be send by messages at 'reverse.yield.factor.japan@gmail.com'.
 
 
 
